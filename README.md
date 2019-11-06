@@ -7,7 +7,7 @@
 Each attacker have it's own directory and inside each directory the reports that are related to each attacker are stored.
 
 # How can I help
-* Create a new issue on Github includeing the data you want to add 
+* Create a new issue on Github including the data you want to add 
 
 # Resources
 
